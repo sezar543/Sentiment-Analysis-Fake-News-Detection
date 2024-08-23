@@ -6,4 +6,4 @@ Fake news involves the deliberate dissemination of misleading information, leadi
 
 This project utilizes a publicly available dataset that includes news text paired with corresponding labels (FAKE or REAL).
 
-[Click here to access the dataset]([URL_TO_DATASET](https://drive.google.com/file/d/1XoHoUjZtLQ6gh_CPv9_igtZoEsdkgq3t/view))
+[Click here to access the dataset](https://drive.google.com/file/d/1XoHoUjZtLQ6gh_CPv9_igtZoEsdkgq3t/view)
